@@ -1,0 +1,26 @@
+#ada-multi-sidebar			{ width:100%;}
+#ada-multi-sidebar .tabs	{ list-style: none; margin: 0;  background-color: #0052A3; padding: 0; overflow: hidden; width:100%; }
+#ada-multi-sidebar .tabs li	{ float: left;  padding: 5px; background-color: #0052A3;  margin: 0 3px 5px 0; border: 1px solid #CCC; }
+/*#ada-multi-sidebar .tabs a:link, #ada-multi-sidebar .tabs a:visited	{ text-decoration: none; font-weight: bold; color: #FFF; }*/
+#ada-multi-sidebar .tabs a:hover	{ border-bottom: 1px dotted #FFF; }
+#ada-multi-sidebar .tabs a:active	{ background-color:#ffffff !important ; }
+#ada-multi-sidebar .widgetcontainer	{ background: url(../images/techblue/content-bg.jpg) repeat-x #FFF;width:100%; border: 1px solid #CCC; margin-bottom: 10px; padding: 10px; }
+#ada-multi-sidebar .widgetcontainer ul	{ list-style: none; margin: 0 0 0 5px; }
+#ada-multi-sidebar .widgetcontainer li	{ margin-bottom: 10px; }
+.widgetcontainer li a:visited, .widgetcontainer li a:link	{ text-decoration: none; font-weight: bold; font-size: 12px; margin-left:5px !important; }
+.widgetcontainer li a:hover	{ border-bottom: 1px dotted #635957; margin-left:5px !important;  }
+/*.tablinks.active.selected { background-color:#ffffff !important ; }*/
+.clearfix:after			{ clear: both; content: "."; display: block; height: 0; line-height: 0; visibility: hidden; }
+.clearfix				{ display: inline-block; }
+html[xmlns] .clearfix	{ display: block; }
+* html .clearfix		{ height: 1%; }
+
+.widgettitle			{ color: #333; font-size: 12px; font-weight: bold; margin: 0; padding: 6px 10px; background: url(../images/feed-title-white.jpg) repeat-x top #EFEFEF; border: 1px solid #CCC; }
+
+.sub					{ font-size: 11px; color: #848485; }
+
+
+.tabcontent {
+  display: none;
+ 
+}

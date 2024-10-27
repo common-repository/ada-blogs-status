@@ -1,0 +1,175 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ada Blogs Status\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-12-16 22:02-0500\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Adadaa <admin@adadaa.com>\n"
+"Language-Team:  <uthavi@adadaa.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Tamil\n"
+"X-Poedit-Country: Tamileelam\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ada_blogs_status_widget.php\n"
+"X-Poedit-SearchPath-0: C:\\xampplite\\htdocs\\wp-content\\plugins\\ada_list_all_blogs\n"
+
+#: C:\xampplite\htdocs\wp-content\plugins\ada_list_all_blogs/ada_active_blogs_widget.php:92
+#: C:\xampplite\htdocs\wp-content\plugins\ada_list_all_blogs/ada_new_blogs_widget.php:86
+#: C:\xampplite\htdocs\wp-content\plugins\ada_list_all_blogs/ada_updated_blogs_widget.php:82
+msgid "Title:"
+msgstr "தலைப்பு:"
+
+#: C:\xampplite\htdocs\wp-content\plugins\ada_list_all_blogs/ada_active_blogs_widget.php:94
+#: C:\xampplite\htdocs\wp-content\plugins\ada_list_all_blogs/ada_blogs_status_widget.php:148
+#: C:\xampplite\htdocs\wp-content\plugins\ada_list_all_blogs/ada_new_blogs_widget.php:87
+#: C:\xampplite\htdocs\wp-content\plugins\ada_list_all_blogs/ada_updated_blogs_widget.php:83
+msgid "Limit:"
+msgstr "எண்ணிக்கை:"
+
+#: C:\xampplite\htdocs\wp-content\plugins\ada_list_all_blogs/ada_blogs_status_widget.php:22
+msgid "None"
+msgstr "ஒன்றுமில்லை"
+
+#: C:\xampplite\htdocs\wp-content\plugins\ada_list_all_blogs/ada_blogs_status_widget.php:23
+msgid "Updated Blogs"
+msgstr "புதுப்பித்த பதிவுகள்"
+
+#: C:\xampplite\htdocs\wp-content\plugins\ada_list_all_blogs/ada_blogs_status_widget.php:24
+msgid "New Blogs"
+msgstr "புதிய பதிவுகள்"
+
+#: C:\xampplite\htdocs\wp-content\plugins\ada_list_all_blogs/ada_blogs_status_widget.php:25
+msgid "Active Blogs"
+msgstr ""
+
+#: C:\xampplite\htdocs\wp-content\plugins\ada_list_all_blogs/ada_blogs_status_widget.php:143
+msgid "Tabbed Sidebar Order:"
+msgstr ""
+
+#: C:\xampplite\htdocs\wp-content\plugins\ada_list_all_blogs/ada_blogs_status_widget.php:148
+#: C:\xampplite\htdocs\wp-content\plugins\ada_list_all_blogs/ada_blogs_status_widget.php:149
+msgid "Only enter integer"
+msgstr "எண் மாத்திரம்"
+
+#: C:\xampplite\htdocs\wp-content\plugins\ada_list_all_blogs/ada_blogs_status_widget.php:151
+msgid "Show blog description:"
+msgstr "பதிவின் விளக்கம்:"
+
+#: C:\xampplite\htdocs\wp-content\plugins\ada_list_all_blogs/ada_blogs_status_widget.php:157
+msgid "Show avatar:"
+msgstr ""
+
+#: C:\xampplite\htdocs\wp-content\plugins\ada_list_all_blogs/ada_blogs_status_widget.php:163
+#: C:\xampplite\htdocs\wp-content\plugins\ada_list_all_blogs/ada_blogs_status_widget.php:164
+msgid "If yes is selected for 'Show avatar:'"
+msgstr ""
+
+#: C:\xampplite\htdocs\wp-content\plugins\ada_list_all_blogs/ada_blogs_status_widget.php:163
+msgid "Avatar size:"
+msgstr ""
+
+#: C:\xampplite\htdocs\wp-content\plugins\ada_list_all_blogs/ada_blogs_status_widget.php:176
+msgid "Updated"
+msgstr "புதிப்பித்தது"
+
+#: C:\xampplite\htdocs\wp-content\plugins\ada_list_all_blogs/ada_blogs_status_widget.php:177
+msgid "New"
+msgstr "புதியது"
+
+#: C:\xampplite\htdocs\wp-content\plugins\ada_list_all_blogs/ada_blogs_status_widget.php:178
+msgid "Active"
+msgstr ""
+
+#: C:\xampplite\htdocs\wp-content\plugins\ada_list_all_blogs/ada_blogs_status_widget.php:190
+#: C:\xampplite\htdocs\wp-content\plugins\ada_list_all_blogs/ada_blogs_status_widget.php:191
+msgid "Ada Blogs Status"
+msgstr "அட பதிவுகள் நிலை"
+
+#: C:\xampplite\htdocs\wp-content\plugins\ada_list_all_blogs/ada_new_blogs_widget.php:89
+#: C:\xampplite\htdocs\wp-content\plugins\ada_list_all_blogs/ada_updated_blogs_widget.php:85
+msgid "Display:"
+msgstr "காட்டு:"
+
+#~ msgid "Ada Ultimate Tamils Options"
+#~ msgstr "அட தீர்க்கமான தமிழ் தெரிவுகள்"
+#~ msgid "Ada Ultimate Tamils"
+#~ msgstr "அட தீர்க்கமான தமிழ்"
+#~ msgid "Disable this plugin"
+#~ msgstr "இந்தச் செருகலை செயலிழக்கச் செய்"
+#~ msgid ""
+#~ "Welcome to <a href=\"http://1uthavi.adadaa.com/ada-ultimate-tamils-plugin-"
+#~ "%E0%AE%85%E0%AE%9F%E2%80%8C-%E0%AE%A4%E0%AF%80%E0%AE%B0%E0%AF%8D%E0%AE%95%"
+#~ "E0%AF%8D%E0%AE%95%E2%80%8C%E0%AE%AE%E0%AE%BE%E0%AE%A9%E2%80%8C/\" target="
+#~ "\"_blank\">Ada Ultimate Tamils Plugin</a>. "
+#~ msgstr ""
+#~ "<a href=\"http://1uthavi.adadaa.com/ada-ultimate-tamils-plugin-%E0%AE%85%"
+#~ "E0%AE%9F%E2%80%8C-%E0%AE%A4%E0%AF%80%E0%AE%B0%E0%AF%8D%E0%AE%95%E0%AF%8D%"
+#~ "E0%AE%95%E2%80%8C%E0%AE%AE%E0%AE%BE%E0%AE%A9%E2%80%8C/\" target=\"_blank"
+#~ "\">அட தீர்க்கமான தமிழ் செருகல்</a> இற்கு வரவேற்கிறோம். "
+#~ msgid ""
+#~ "All Tamil plugins will be added to this page. You can <i>disable</i> or "
+#~ "<i>enable</i> individual Tamil plugins from their respective menus. "
+#~ msgstr ""
+#~ "சகல தமிழ் செருகல்களும் இந்த பக்கத்தில் இணைக்கப்படும். தனித்தனியாக ஒவ்வொரு தமிழ் "
+#~ "செருகலையும் நீங்கள் <i>செயல்படுத்தலாம்</i> (அ) <i>செயலிழக்கச் செய்யலாம்</i>."
+#~ msgid ""
+#~ "<i>Please note that all Tamil plugins are visible only on Tamil posts.</i>"
+#~ msgstr "<i>சகல தமிழ் செருகல்களும் தமிழில் எழுதிய இடுகையில் மட்டுமே தோன்றும்.</i>"
+#~ msgid "Please select one of the Tamil plugins from the above menu."
+#~ msgstr "மேலுள்ள பட்டியலில் இருந்து தமிழ் செருகல் ஒன்றைத் தெரிவு செய்க."
+#~ msgid "Options saved."
+#~ msgstr "தெரிவுகள் சேமிக்கப்பட்டுவிட்டது."
+#~ msgid "Ada eTamil"
+#~ msgstr "அட இ-தமிழ்"
+#~ msgid "Options"
+#~ msgstr "தெரிவுகள்"
+#~ msgid "Button position"
+#~ msgstr "பொத்தான் இடம்"
+#~ msgid "Top of the content"
+#~ msgstr "இடுகையின் மேல்"
+#~ msgid "Bottom of the content"
+#~ msgstr "இடுகையின் கீழ்"
+#~ msgid "Only show button when a single post is viewed"
+#~ msgstr "தனி இடுகையை பார்வையிடும்போது மட்டுமே இந்த பொத்தானை காண்பி"
+#~ msgid "Update options &raquo;"
+#~ msgstr "தெரிவுகளைச் சேமி &raquo;"
+#~ msgid "eTamil"
+#~ msgstr "இ-தமிழ்"
+#~ msgid "Ada Nam Kural"
+#~ msgstr "அட நம் குரல்"
+#~ msgid "Nam Kural"
+#~ msgstr "நம் குரல்"
+#~ msgid "Ada News Paanai"
+#~ msgstr "அட News பானை"
+#~ msgid "Button style"
+#~ msgstr "பொத்தான் வடிவம்"
+#~ msgid "horizontal button"
+#~ msgstr "கிடை பொத்தான்"
+#~ msgid "vertical button"
+#~ msgstr "நெடு பொத்தான்"
+#~ msgid "News Paanai"
+#~ msgstr "News பானை"
+#~ msgid "Ada Tamil10"
+#~ msgstr "அட தமிழ்10"
+#~ msgid "Tamil10"
+#~ msgstr "தமிழ்10"
+#~ msgid "Ada Tamilers"
+#~ msgstr "அட தமிழர்ஸ்"
+#~ msgid "Ada Tamilish"
+#~ msgstr "அட தமிழிஷ்"
+#~ msgid "Tamilish"
+#~ msgstr "தமிழிஷ்"
+#~ msgid "Ada Ulavu"
+#~ msgstr "அட உலவு"
+#~ msgid "Ulavu"
+#~ msgstr "உலவு"
+#~ msgid "Ada Valaipookkal"
+#~ msgstr "அட வலைப்பூக்கள்"
+#~ msgid "Valaipookkal"
+#~ msgstr "வலைப்பூக்கள்"
+#~ msgid "Toolbar position"
+#~ msgstr "பட்டை இடம்"
+
